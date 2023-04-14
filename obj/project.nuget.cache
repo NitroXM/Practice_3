@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FjfyErZ1LfJHVdlS6v8Hrzk26jGaFXam4zGKVApnhw9ZIqUqIUZM+8H9f4Meo/W9IxZoCj/FXjL69sOcUngCkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nitro\\source\\repos\\Practice_3\\Practice_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nitro\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nitro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Nitro\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
